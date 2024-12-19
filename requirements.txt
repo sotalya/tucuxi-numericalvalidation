@@ -1,0 +1,10 @@
+seaborn
+lxml
+numpy
+pandas
+colorama
+python-dateutil
+psutil
+matplotlib
+
+git+https://github.com/sotalya/tucuxi-python.git
