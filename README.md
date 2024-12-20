@@ -51,7 +51,7 @@ A config.ini file is required to use the code. Here is an example:
 
 
 ## Running the code
-Once the config.init file has been correctly configured and the packages installed, the code can be run directly via the _tucuxi\_virtual\_patient_ script. 
+Once the config.init file has been correctly configured and the packages installed, the code can be run directly via the _tucuxi\_numerical\_validation.py_ script. 
 
 ## Usage
 
